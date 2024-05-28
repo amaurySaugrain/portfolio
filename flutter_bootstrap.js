@@ -18,7 +18,7 @@ loadingDiv.appendChild(loaderDiv);
 // Customize the app initialization process
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "1537843754"
+    serviceWorkerVersion: "1841576295"
   },
 
   onEntrypointLoaded: async function(engineInitializer) {
